@@ -5,8 +5,27 @@
             <img src="./assets/img/banner.png" alt="" class="w-100 d-block rounded-3" onclick="window.location.href='./?page=subscribe'">
         </div>
     </section>
+    
+    <section class="my-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-auto mx-auto d-lg-none d-grid">
+                    <a href="./?page=subscribe" class="btn btn-principal">INSCREVA-SE</a>
+                </div>
+            </div>
+            <?php if(date('Y-m-d') == date('2024-10-29')){ ?>
+            <div class="row mt-3">
+                <div class="col-lg-auto mx-auto">
+                    <p class="text-center">
+                        <a href="./?page=login" class="btn btn-principal">ASSISTA AO VIVO</a>
+                    </p>
+                </div>
+            </div>
+            <?php } ?>
+        </div>
+    </section>
 
-    <section class="mt-5">
+    <section class="mt-3">
         <div class="container">
             <div class="row">
                 <div class="col-lg-auto d-grid mx-auto">
@@ -23,15 +42,7 @@
                     </a> 
                 </div>
             </div>
-            <?php if(date('Y-m-d') == date('2024-10-29')){ ?>
-            <div class="row mt-3">
-                <div class="col-auto mx-auto">
-                    <p class="text-center">
-                        <a href="./?page=login" class="btn btn-principal">ASSISTA AO VIVO</a>
-                    </p>
-                </div>
-            </div>
-            <?php } ?>
+            
         </div>
     </section>
 
@@ -181,7 +192,7 @@
                                     </p>
                                     <p class="text-center d-grid baloo">
                                         <a href="./?page=subscribe" class="btn btn-blue fs-3 baloo">
-                                            INSCREVER-SE
+                                            INSCREVA-SE
                                         </a>
                                     </p>
                                 </div>
