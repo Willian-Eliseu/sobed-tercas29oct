@@ -140,4 +140,37 @@ $salas = $configTbread->getTbreadId();
             </div>
         </div>
     </section>
+
+    <section class="my-5">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-9">
+                    <div class="row">
+                        <div class="col">
+                            <p class="text-principal fs-2 baloo fw-bold border-bottom border-secondary-subtle pb-2">
+                                APOIO EDUCACIONAL</p>
+                        </div>
+                    </div>
+                    <div class="row g-3 justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-3">
+                            <div class="card tamanho shadow-sm h-100 justify-content-center">
+                                <img class="card-img-top p-2" src="./assets/img/bostonScientific.png" alt="Logo ">
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-3">
+                            <div class="card tamanho shadow-sm h-100 justify-content-center">
+                                <img class="card-img-top p-2 d-block mx-auto" src="./assets/img/promedonMicrotech.png" alt="Logo " style="width: 80%;">
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-3">
+                            <div class="card tamanho shadow-sm h-100 justify-content-center">
+                                <img class="card-img-top p-2" src="./assets/img/steris.png" alt="Logo ">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
 </main>

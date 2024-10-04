@@ -116,7 +116,7 @@
         </div>
     </section>
 
-    <!-- apoio -->
+    <!-- apoio --
     <section class="my-5">
         <div class="container">
             <div class="row justify-content-center">
@@ -169,6 +169,7 @@
 
         </div>
     </section>
+    !--  -->
 
     <!-- inscrição -->
     <section class="my-5">
