@@ -2,7 +2,7 @@
     <!-- hero -->
     <section class="my-3">
         <div class="container">
-            <img src="./assets/img/banner.png" alt="" class="w-100 d-block rounded-3" onclick="window.location.href='./?page=subscribe'">
+            <img src="./assets/img/banner.png?v=<?= time() ?>" alt="" class="w-100 d-block rounded-3" onclick="window.location.href='./?page=subscribe'">
         </div>
     </section>
     

@@ -9,7 +9,7 @@
                                 SUPORTE
                             </p>
                             <p class="fs-4">
-                                Entre em contato por email ou preenchendo o formulário abaixo
+                                Entre em contato preenchendo o formulário abaixo
                             </p>
                         </div>
                     </div>
@@ -54,7 +54,7 @@
                                                     <input type="text" name="nome" id="nome" class="form-control" required>
                                                 </div>
                                             </div>
-                                            <div class="col-12">
+                                            <div class="col-12 mb-2 mb-lg-0">
                                                 <div class="form-group">
                                                     <label for="email">Email*:</label>
                                                     <input type="text" name="email" id="email" class="form-control" required>
