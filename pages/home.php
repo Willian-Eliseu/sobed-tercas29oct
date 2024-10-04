@@ -60,6 +60,12 @@
                     <div class="row-mb-3">
                         <div class="col-12">
                             <p class="fs-4 fw-bold mb-0">
+                                Dr. HERBETH JOSE TOLEDO SILVA
+                            </p>
+                            <p>
+                                Presidente da SOBED
+                            </p>
+                            <p class="fs-4 fw-bold mb-0">
                                 Dr. VITOR NUNES ARANTES
                             </p>
                             <p>
@@ -67,6 +73,12 @@
                             </p>
                             <p class="fs-4 fw-bold mb-0">
                                 Dr. ALBERTO ANTÔNIO ESPINO
+                            </p>
+                            <p>
+                                Palestrante
+                            </p>
+                            <p class="fs-4 fw-bold mb-0">
+                                Dr. ALEJANDRO NIEPONICE
                             </p>
                             <p>
                                 Palestrante
