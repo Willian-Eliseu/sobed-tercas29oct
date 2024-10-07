@@ -66,7 +66,7 @@
                                 Presidente da SOBED
                             </p>
                             <p class="fs-4 fw-bold mb-0">
-                                Dr. VITOR NUNES ARANTES
+                                Dr. MIGUEL KOURY FILHO
                             </p>
                             <p>
                                 Moderador
@@ -90,7 +90,13 @@
                                 Debatedor
                             </p>
                             <p class="fs-4 fw-bold mb-0">
-                                Dr. MIGUEL KOURY FILHO
+                                Dr. FABIO SEGAL
+                            </p>
+                            <p>
+                                Debatedor
+                            </p>
+                            <p class="fs-4 fw-bold mb-0">
+                                Dr. VITOR NUNES ARANTES
                             </p>
                             <p>
                                 Debatedor
