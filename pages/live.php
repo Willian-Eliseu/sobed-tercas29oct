@@ -38,7 +38,7 @@ $salas = $configTbread->getTbreadId();
                             <div class="row">
                                 <div class="col ratio ratio-16x9 p-0" id="video-space">
                                     <!-- vídeo -->
-                                    <iframe id="activeVideo" class="bg-white player" src="" allowfullscreen></iframe>
+                                    <iframe id="activeVideo" class="bg-white player border border-secondary border-1 rounded" src="" allowfullscreen></iframe>
                                 </div>
                             </div>
                         </div>
